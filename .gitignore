@@ -1,5 +1,7 @@
 .vscode
 ecc-src/
 out/
+obj/
 
 *.out
+
