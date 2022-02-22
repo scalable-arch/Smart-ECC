@@ -20,6 +20,14 @@ src/
 └── main.cc
 ``` 
 
+## How to run
+```bash
+./test.out -input "input data" -error_length "# of error" -error_pos "position of error"
+
+ex) When 0x01 was encoded, 2 and 5 bit of codeword is inverted due to failure.
+./test.out -input 1 -error_length 2 -error_pos 2 5;
+``` 
+
 
 ## (2022-02-22) New Update -- CNN
 <p align="center">
