@@ -10,7 +10,7 @@ src/
 │
 ├── mem_local/ 
 │  ├── hsiao.hh hsiao.cc :Syndrome/Candidator Generator 통합본. (72,64) Hsiao Code(1960) 기반.
-│  ├── CNN.hh CNN.cc :비트별 에러확률 계산. (72,64) Hsiao Code(1960) 기반.
+│  ├── CNN.hh CNN.cc :비트별 에러확률 계산 딥러닝 구현부
 │  └── MLD.hh MLD.cc :Ranking 구현부
 
 ├── utils/  
