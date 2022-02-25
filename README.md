@@ -46,4 +46,4 @@ ex) When 0x01 was encoded, 2 and 5 bit of codeword is inverted due to failure.
   - **Notice**) Wide-IO SRAM이 요구됨. 개선 사항 (연구 진행중)
   
 ## Documentation
-For detail, please refer to (업데이트중) https://quark-lupin-c50.notion.site/SmartECC-Architecture-9310b61452514e469ecf84551de7adca 
+For detail, please refer to (업데이트중) [SmartECC Documentation](https://quark-lupin-c50.notion.site/SmartECC-Architecture-9310b61452514e469ecf84551de7adca )
