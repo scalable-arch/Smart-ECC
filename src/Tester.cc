@@ -49,7 +49,7 @@ Codeword Tester::getLabel(){
 
     for(int i=0; i<param->error_length; i++){
         int loc = param->error_loc[i];
-        label_mask[i] = 1;
+        label_mask[loc] = 1;
     }  
 
     return label_mask;
