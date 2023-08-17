@@ -10,7 +10,7 @@
 - Implement **On-Die ECC (OD-ECC) [1-2]** and **Rank-Level ECC (RL-ECC)** of DDR5 ECC-DIMM
 
 # Overview
-![An Overview of the exercise](https://github.com/xyz123479/ECC-exercise/blob/main/02_Application/02_DDR5_ODECC_RLECC/DDR5%20OD-ECC%20%26%20RL-ECC.png)
+![An Overview of the RS Erasure Decoding](https://github.com/xyz123479/Smart-ECC/blob/main/Dongwhee/Erasure_Decoding_Simulation/Smart%20ECC_RS%20Erasure%20Decoding.png)
 
 # Code flows (Fault_sim.cpp)
 - 1. Reading OD-ECC, RL-ECC H-Matrix.txt: It's fine not to use RL-ECC H-Matrix.txt.
