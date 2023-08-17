@@ -1,4 +1,4 @@
-# Error Scenario & On-Die ECC & Rank-Level ECC of DDR5
+# RS Erasure Decoding against Error Scenario
 
 # Author
 
@@ -8,10 +8,6 @@
 
 # Objectives
 - Implement **On-Die ECC (OD-ECC) [1-2]** and **Rank-Level ECC (RL-ECC)** of DDR5 ECC-DIMM
-- Understand the ECC scheme to improve reliability
-- The above method has been used for several papers **[3-5]**
-- **I encourage you to implement the Rank-Level ECC (RL-ECC) freely**
-- **This assignment is designed to be open-ended, so don't be afraid to be innovative and creative with your approach**
 
 # Overview
 ![An Overview of the exercise](https://github.com/xyz123479/ECC-exercise/blob/main/02_Application/02_DDR5_ODECC_RLECC/DDR5%20OD-ECC%20%26%20RL-ECC.png)
