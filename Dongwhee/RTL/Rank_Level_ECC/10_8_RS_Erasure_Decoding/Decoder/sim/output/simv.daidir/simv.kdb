@@ -1,7 +1,7 @@
 rc file Version 1.0
 
 [Design]
-COMPILE_PATH=/home/xyz123479/verilog/AMDCHIPKILL/Decoder/sim/output
+COMPILE_PATH=/home/xyz123479/TYPEMOON/SmartECC/Smart-ECC/Dongwhee/RTL/Rank_Level_ECC/10_8_RS_Erasure_Decoding/Decoder/sim/output
 VCS_HOME=/usr/synopsys/vcs/R-2020.12-SP1-1
 VERDI_HOME=/usr/synopsys/verdi/R-2020.12-SP1-1
 SystemC=FALSE
@@ -9,7 +9,7 @@ UUM=FALSE
 KDB=TRUE
 USE_NOVAS_HOME=FALSE
 COSIM=FALSE
-TOP=TB GFDIV 
+TOP=TB 
 OPTION=-ssv -ssy 
 ELAB_OPTION=-ssv -ssy 
 ELAB=TRUE

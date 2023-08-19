@@ -2529,12 +2529,15 @@ static inline U asm_bsf (U in)
 #ifdef __cplusplus
 extern "C" {
 #endif
-void  hs_0_M_2_21__simv_daidir (UB  * pcode, scalar  val);
-void  hs_0_M_2_0__simv_daidir (UB  * pcode, scalar  val);
-void  hs_0_M_2_11__simv_daidir (UB  * pcode, scalar  val);
-void  hs_0_M_11_21__simv_daidir (UB  * pcode, scalar  val);
-void  hs_0_M_11_0__simv_daidir (UB  * pcode, scalar  val);
-void  hs_0_M_11_11__simv_daidir (UB  * pcode, scalar  val);
+void  hs_0_M_6_21__simv_daidir (UB  * pcode, scalar  val);
+void  hs_0_M_6_0__simv_daidir (UB  * pcode, scalar  val);
+void  hs_0_M_6_11__simv_daidir (UB  * pcode, scalar  val);
+void  hs_0_M_19_21__simv_daidir (UB  * pcode, scalar  val);
+void  hs_0_M_19_0__simv_daidir (UB  * pcode, scalar  val);
+void  hs_0_M_19_11__simv_daidir (UB  * pcode, scalar  val);
+void  hs_0_M_20_21__simv_daidir (UB  * pcode, scalar  val);
+void  hs_0_M_20_0__simv_daidir (UB  * pcode, scalar  val);
+void  hs_0_M_20_11__simv_daidir (UB  * pcode, scalar  val);
 void  hsG_0__0 (struct dummyq_struct * I1352, EBLK  * I1347, U  I709);
 #ifdef __cplusplus
 }

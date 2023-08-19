@@ -37,12 +37,12 @@
 43
 _CE_M=
 _CE_CONDA=
-XDG_SESSION_ID=7236
+XDG_SESSION_ID=7298
 XDG_RUNTIME_DIR=/run/user/1007
-VSCODE_IPC_HOOK_CLI=/run/user/1007/vscode-ipc-0efba06b-7f1d-4a4f-ae80-b13341d1ebb6.sock
+VSCODE_IPC_HOOK_CLI=/run/user/1007/vscode-ipc-184f0d88-be0d-4b6e-8dbf-2c680def9ed6.sock
 VSCODE_GIT_IPC_HANDLE=/run/user/1007/vscode-git-e364059f7c.sock
-VSCODE_GIT_ASKPASS_NODE=/home/xyz123479/.vscode-server/bin/74f6148eb9ea00507ec113ec51c489d6ffb4b771/node
-VSCODE_GIT_ASKPASS_MAIN=/home/xyz123479/.vscode-server/bin/74f6148eb9ea00507ec113ec51c489d6ffb4b771/extensions/git/dist/askpass-main.js
+VSCODE_GIT_ASKPASS_NODE=/home/xyz123479/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/node
+VSCODE_GIT_ASKPASS_MAIN=/home/xyz123479/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git/dist/askpass-main.js
 VSCODE_GIT_ASKPASS_EXTRA_ARGS=
 VMR_MODE_FLAG=64
 VERDI_HOME=/usr/synopsys/verdi/R-2020.12-SP1-1
@@ -55,10 +55,10 @@ VCS_ARCH=linux64
 UNAME=/bin/uname
 TOOL_HOME=/usr/synopsys/vcs/R-2020.12-SP1-1/linux64
 TMOUT=7200
-TERM_PROGRAM_VERSION=1.81.0
+TERM_PROGRAM_VERSION=1.81.1
 TERM_PROGRAM=vscode
-SSH_CONNECTION=115.145.211.102 63250 192.168.2.14 8002
-SSH_CLIENT=115.145.211.102 63250 8002
+SSH_CONNECTION=115.145.211.102 57068 192.168.2.14 8002
+SSH_CLIENT=115.145.211.102 57068 8002
 SPYGLASS_HOME=/usr/synopsys/spyglass/P-2019.06-SP2-17/SPYGLASS_HOME
 SNPS_VERDI_INTERNAL_LP_XML_NEW_FLOW=1
 SCRNAME=vcs
@@ -68,7 +68,7 @@ OVA_UUM=0
 LESSOPEN=| /usr/bin/lesspipe %s
 LESSCLOSE=/usr/bin/lesspipe %s %s
 LC_ALL=C
-GIT_ASKPASS=/home/xyz123479/.vscode-server/bin/74f6148eb9ea00507ec113ec51c489d6ffb4b771/extensions/git/dist/askpass.sh
+GIT_ASKPASS=/home/xyz123479/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/git/dist/askpass.sh
 DC_HOME=/usr/synopsys/syn/Q-2019.12-SP5-5
 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1007/bus
 CONDA_SHLVL=1
@@ -81,9 +81,9 @@ COLORTERM=truecolor
 0
 7
 1692235048 /home/xyz123479/TYPEMOON/SmartECC/Smart-ECC/Dongwhee/RTL/Rank_Level_ECC/10_8_RS_Erasure_Decoding/Encoder/sim/..//rtl/GFMULT.sv
-1692235048 /home/xyz123479/TYPEMOON/SmartECC/Smart-ECC/Dongwhee/RTL/Rank_Level_ECC/10_8_RS_Erasure_Decoding/Encoder/sim/..//rtl/AMDCHIPKILL_ENCODER.sv
-1692235048 /home/xyz123479/TYPEMOON/SmartECC/Smart-ECC/Dongwhee/RTL/Rank_Level_ECC/10_8_RS_Erasure_Decoding/Encoder/sim/..//sim/tb/TB_testbench.sv
-1692235048 /home/xyz123479/TYPEMOON/SmartECC/Smart-ECC/Dongwhee/RTL/Rank_Level_ECC/10_8_RS_Erasure_Decoding/Encoder/sim/..//rtl/filelist.f
+1692431812 /home/xyz123479/TYPEMOON/SmartECC/Smart-ECC/Dongwhee/RTL/Rank_Level_ECC/10_8_RS_Erasure_Decoding/Encoder/sim/..//rtl/ENCODER.sv
+1692239540 /home/xyz123479/TYPEMOON/SmartECC/Smart-ECC/Dongwhee/RTL/Rank_Level_ECC/10_8_RS_Erasure_Decoding/Encoder/sim/..//sim/tb/TB_testbench.sv
+1692239528 /home/xyz123479/TYPEMOON/SmartECC/Smart-ECC/Dongwhee/RTL/Rank_Level_ECC/10_8_RS_Erasure_Decoding/Encoder/sim/..//rtl/filelist.f
 1692235048 /home/xyz123479/TYPEMOON/SmartECC/Smart-ECC/Dongwhee/RTL/Rank_Level_ECC/10_8_RS_Erasure_Decoding/Encoder/sim/..//sim/tb/filelist.f
 1618931515 /usr/synopsys/verdi/R-2020.12-SP1-1/share/PLI/VCS/LINUX64/verdi.tab
 1618974649 /usr/synopsys/vcs/R-2020.12-SP1-1/linux64/lib/vcsdp_lite.tab
@@ -92,5 +92,5 @@ COLORTERM=truecolor
 1618975343 /usr/synopsys/vcs/R-2020.12-SP1-1/linux64/lib/liberrorinf.so
 1618975120 /usr/synopsys/vcs/R-2020.12-SP1-1/linux64/lib/libsnpsmalloc.so
 1618975339 /usr/synopsys/vcs/R-2020.12-SP1-1/linux64/lib/libvfs.so
-1692235192 simv.daidir
+1692431853 simv.daidir
 -1 partitionlib

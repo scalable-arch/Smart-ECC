@@ -1,6 +1,6 @@
 psSimBaseName                      	simv
 psLogFileName                      	NULL
-pDaiDir                            	/home/xyz123479/verilog/AMDCHIPKILL/Decoder/sim/output/simv.daidir
+pDaiDir                            	/home/xyz123479/TYPEMOON/SmartECC/Smart-ECC/Dongwhee/RTL/Rank_Level_ECC/10_8_RS_Erasure_Decoding/Decoder/sim/output/simv.daidir
 destPath                           	csrc/
 fSharedMaster                      	0
 fHsimPCSharedLibSpecified          	0

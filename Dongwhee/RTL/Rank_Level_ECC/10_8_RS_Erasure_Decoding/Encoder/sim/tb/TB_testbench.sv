@@ -12,7 +12,7 @@ end
 
 assign data_in = data;
 
-  AMDCHIPKILL_ENCODER encoder(data_in, codeword_out);
+  ENCODER encoder(data_in, codeword_out);
 
 
   initial begin
