@@ -11,7 +11,7 @@
 - Implement RS Erasure Decoding using Alert_n pin (DUE information)
 
 # Overview
-![An Overview of the RS Erasure Decoding](https://github.com/xyz123479/Smart-ECC/blob/main/Dongwhee/Erasure_Decoding_Simulation/Smart%20ECC_RS%20Erasure%20Decoding.png)
+![An Overview of the RS Erasure Decoding](https://github.com/scalable-arch/Smart-ECC/blob/main/Dongwhee/Erasure_Decoding_Simulation/Smart%20ECC_RS%20Erasure%20Decoding.png)
 
 # Code flows (Fault_sim.cpp)
 - 1. Reading OD-ECC H-Matrix.txt
