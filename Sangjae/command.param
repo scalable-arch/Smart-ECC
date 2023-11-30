@@ -1,8 +1,0 @@
-
-// Odd Syndrome
-./test.out -input 1 -error_length 1 -error_pos 1;
-./test.out -input 1 -error_length 2 -error_pos 0 1;
-./test.out -input 1124 -error_length 2 -error_pos 12 31;
-
-// gdb mode
-gdb --tui --args ./test.out -input 1 -error_length 1 -error_pos 1
