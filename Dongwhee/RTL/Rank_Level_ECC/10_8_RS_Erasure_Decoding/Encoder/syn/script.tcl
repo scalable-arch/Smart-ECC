@@ -1,9 +1,9 @@
 # ---------------------------------------
 # DESIGN PROFILE
 # ---------------------------------------
-set topmodule_name      AMDCHIPKILL_ENCODER
+set topmodule_name      ENCODER
 set clk_port_name       clk
-set clk_freq            5000
+set clk_freq            2400
 
 # ---------------------------------------
 # Read Libraries
